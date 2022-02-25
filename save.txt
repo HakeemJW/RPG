@@ -1,0 +1,1 @@
+{'Level': 1, 'Attack': 10, 'Resistance': 5, 'Experience': 0}
